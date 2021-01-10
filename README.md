@@ -6,17 +6,17 @@ The Colorado Board of Elections called for this audit of results from three coun
 
 ## Election Audit Results
 
--Total cast ballots: 369,711
--Cast ballots by county:
-  -Jefferson: 10.5% (38,855)
-  -Denver: 82.8% (306,055)
-  -Arapahoe: 6.7% (24,801)
--County with the largest number of ballots cast: Denver
--Total ballots and percentage of votes in favor of candidate:
-  -Charles Casper Stockham: 23.0% (85,213)
-  -Diana DeGette: 73.8% (272,892)
-  -Raymon Anthony Doane: 3.1% (11,606)
--The election winner is Diana DeGette, having 272,892 ballots in favor of candidate, giving 73.8% of the total vote.
+- Total cast ballots: 369,711
+- Cast ballots by county:
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
+- County with the largest number of ballots cast: Denver
+- Total ballots and percentage of votes in favor of candidate:
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Diana DeGette: 73.8% (272,892)
+  - Raymon Anthony Doane: 3.1% (11,606)
+- The election winner is Diana DeGette, having 272,892 ballots in favor of candidate, giving 73.8% of the total vote.
 
 ## Election Audit Summary
 
