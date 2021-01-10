@@ -21,5 +21,5 @@ The Colorado Board of Elections called for this audit of results from three coun
 ## Election Audit Summary
 
 For future elections, this same script could be used to run audits for all counties across the state of Colorado. In addition, with some modification, the code enclosed in this repository could assist the Board in the following ways:
--The code can be modified to evaluate ballots cast for multiple races, including those ballots that do not vote for all candidates.
--The code can also be modified for ranked choice ballots, given evaluation criteria from the Board.
+- The code can be modified to evaluate ballots cast for multiple races, including those ballots that do not vote for all candidates.
+- The code can also be modified for ranked choice ballots, given evaluation criteria from the Board.
